@@ -8,6 +8,7 @@ Meet **Eva**, a professional banking assistant chatbot that lives entirely in th
 ![Series](https://img.shields.io/badge/GenAI%20Series-Part%206-blueviolet)
 
 ---
+### 🔗 Live Demo → ... **[https://banking-assistant-openai-chatbot.onrender.com/](https://banking-assistant-openai-chatbot.onrender.com/)**
 
 ## 📌 Overview
 
