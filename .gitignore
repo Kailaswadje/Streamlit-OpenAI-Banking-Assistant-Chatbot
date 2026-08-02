@@ -1,24 +1,5 @@
-# Environment & secrets
-.env
-*.env
 OPEN_AI_API_KEY.txt
-*.key
- 
-# Python
-__pycache__/
-*.pyc
-*.pyo
-venv/
-env/
-.venv/
- 
-# Streamlit
-.streamlit/secrets.toml
- 
-# OS files
-.DS_Store
-Thumbs.db
- 
-# IDE
-.vscode/
-.idea/
+Google_api_key.txt
+.ipynb_checkpoints/
+.env
+*.envgit rm --cached OPEN_AI_API_KEY.txt
